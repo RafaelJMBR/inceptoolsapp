@@ -10,7 +10,3 @@ O objetivo é criar uma aplicação que sirva como uma ferramenta auxiliar em ta
 - Expo
 - AsyncStorage
 - React Navigation
-
-## Observações
-
-O projeto ainda está em evolução e pode receber novas funcionalidades no futuro.
